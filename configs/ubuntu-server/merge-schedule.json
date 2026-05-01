@@ -1,0 +1,10 @@
+{
+    "subscribers": [
+        "canonical-server"
+    ],
+    "tags": [
+        "needs-merge",
+        "upgrade-software-version"
+    ],
+    "packages": []
+}
